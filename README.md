@@ -10,7 +10,7 @@
 - **User-Friendly Interface**: Designed with simplicity in mind, making it accessible for artists of all skill levels.
 
 ## Installation
-1. Download the latest version of "Pix Mix" from.
+1. Download the latest version of "Pix Mix."
 2. Unzip the downloaded file to your preferred location.
 3. Run `PixMix.exe` and follow the installation instructions.
 
