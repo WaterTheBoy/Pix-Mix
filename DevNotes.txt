@@ -1,0 +1,11 @@
+I wanted to add the abiliy for images to retain their Alpha, if available. But that would have delayed things too long.
+
+There's also an issue where the Command Prompt keeps showing up on screen and going away, because the multiprocessing doesn't work well on windows.
+
+I also found that some images still don't scale to fit the image background box.
+
+Files output ass PixeMixed and not PixMixed.
+That typo will haunt me forever.
+
+BUT!
+It's good enough for me!
