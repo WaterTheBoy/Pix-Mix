@@ -1,0 +1,33 @@
+Pix Mix License Agreement
+Copyright © 2024 Water Corulla and Water& Incorporated. All Rights Reserved.
+
+1. License Grant
+Water Corulla and Water& Incorporated ("Licensor") hereby grants to you ("Licensee"), subject to the terms and conditions of this License Agreement, a non-exclusive, non-transferable, limited right to use Pix Mix ("Software") solely for the Licensee's personal or internal business purposes on a single computer or device. This license does not allow the Software to be shared or used concurrently on different computers or by different users.
+
+2. Restrictions
+The Licensee agrees not to, and will not permit others to:
+
+Redistribute: Distribute, sell, lease, rent, lend, convey or otherwise transfer or assign the Software, or any rights granted by this License Agreement, to any third party without the prior written consent of the Licensor.
+Modification: Modify, translate, adapt, or create derivative works from the Software.
+Reverse Engineering: Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+3. Intellectual Property Rights
+The Software is protected by intellectual property laws and treaties. The Software is licensed, not sold, and Water Corulla and Water& Incorporated retains ownership of all copies of the Software and reserves all rights not expressly granted to the Licensee under this License Agreement.
+
+4. Termination
+This License Agreement is effective until terminated. The Licensor may terminate this License Agreement at any time if the Licensee breaches any term of this Agreement. Upon termination, the Licensee must destroy all copies of the Software in their possession or control.
+
+5. Disclaimer of Warranty
+The Software is provided "AS IS," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+6. Limitation of Liability
+In no event shall Water Corulla and Water& Incorporated be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of 'Authorized Users' use of or inability to use the Software, even if [Your Name or Company Name] has been advised of the possibility of such damages.
+
+7. Governing Law
+This License Agreement shall be governed by the laws of the State of Nevada, United States, without regard to its conflict of laws principles.
+
+By installing, copying, or otherwise using the Software, you acknowledge that you have read this License Agreement, understand it, and agree to be bound by its terms.
+
+Water Corulla and Water& Incorporated 
+
+CaptainCommercial2@gmail.com
+
