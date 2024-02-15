@@ -332,7 +332,7 @@ def CreateVideo(switch):
         for i, _ in enumerate(pool.imap_unordered(process_frame, frame_args), 1):
             update_progress_bar(i, total_frames)
     # Compile processed frames back into a video
-    compile_frames_to_video(output_dir, 'VideoFramedata/All_PixeMixed.avi', fps)
+    compile_frames_to_video(output_dir, 'VideoFramedata/All_PixMixed.avi', fps)
     # Save new config
     save_project_config('old_project_config.json', current_config)
     # Clear progress bar from screen and show where the file is.
@@ -417,7 +417,7 @@ def PNG_list():
             update_progress_bar(i, frames)
     # Reassemble the processed frames into a GIF
     PNGs = [Image.open(f"{output_dir}/frames{i}.PNG") for i in range(frames)]
-    PNGs[0].save(f'{output_dir}/All_PixeMixed.gif', format="GIF", append_images=PNGs[1:], save_all=True, duration=metadata, loop=0)
+    PNGs[0].save(f'{output_dir}/All_PixMixed.gif', format="GIF", append_images=PNGs[1:], save_all=True, duration=metadata, loop=0)
     # Update the Tkinter GUI to notify the user
     root.after(0, progress_bar.place_forget)
     Readiness.lift()
