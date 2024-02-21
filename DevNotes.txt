@@ -1,13 +1,13 @@
-I wanted to add the abiliy for images to retain their Alpha, if available. But that would have delayed things too long.
+I wanted to add the ability for images to retain their Alpha, if available. But that would have delayed things too long.
 
-There's also an issue where the Command Prompt keeps showing up on screen and going away, because the multiprocessing doesn't work well on windows.
+There's also an issue where the Command Prompt keeps showing up on the screen and going away because the multiprocessing doesn't work well on Windows.
 
 I also found that some images still don't scale to fit the image background box.
 
 Files output ass PixeMixed and not PixMixed.
 That typo will haunt me forever.
 
-The height doesn't seem to adjust to the frame, in the same way width does.
+The height doesn't adjust to the frame, as the width does.
 
 BUT!
 It's good enough for me!
