@@ -7,5 +7,7 @@ I also found that some images still don't scale to fit the image background box.
 Files output ass PixeMixed and not PixMixed.
 That typo will haunt me forever.
 
+The height doesn't seem to adjust to the frame, in the same way width does.
+
 BUT!
 It's good enough for me!
